@@ -13,5 +13,6 @@ Example: “ducklett: They are better at swimming than flying, and they happily 
 
 BONUS Instead of relying on console.log, let’s create a UI for these random pokemon. Build an HTML page that lets you click on a button to generate data from three randomly chosen pokemon. Include the name of the pokemon, an image of the pokemon, and the description of its species which you found in 3.
 
-[Here’s how this could look:](http://curric.rithmschool.com/springboard/exercises/async-nums-cards/_images/pokemon.gif)
+Here’s how this could look [click onMe](http://curric.rithmschool.com/springboard/exercises/async-nums-cards/_images/pokemon.gif)
 
+[Pokemon API](pokemonAPI.png)
