@@ -15,4 +15,4 @@ BONUS Instead of relying on console.log, let’s create a UI for these random po
 
 Here’s how this could look [click onMe](http://curric.rithmschool.com/springboard/exercises/async-nums-cards/_images/pokemon.gif)
 
-[Pokemon API](pokemonAPI.png)
+![Screenshot](pokemonAPI.png)
